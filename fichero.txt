@@ -1,0 +1,11 @@
+Este es un fichero de texto para la prueba de un proyecto con tres ramas
+
+main
+producción
+desarrollo
+
+Las mejoras se realizan en ramas en desarrollo
+
+Se hacen pull request y merg a desarrollo y cuando están probadas de desarrollo a producción
+
+Automatización de publicación de cambios de producción a host

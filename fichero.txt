@@ -9,3 +9,9 @@ Las mejoras se realizan en ramas en desarrollo
 Se hacen pull request y merg a desarrollo y cuando están probadas de desarrollo a producción
 
 Automatización de publicación de cambios de producción a host
+
+Primer  cambio del fichero
+
+Modificación de mejora 2
+
+Otra modificación
